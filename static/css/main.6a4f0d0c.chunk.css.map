@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,UACI,SAAS,CACZ,OAEE,qBAAqB","file":"main.6a4f0d0c.chunk.css","sourcesContent":["\n.selected{\n    color:red;\n}\nbutton{\n   box-sizing:border-box;\n}"]}
